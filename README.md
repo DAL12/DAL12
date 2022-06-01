@@ -1,10 +1,11 @@
-<center><img width="40%" src='https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif'></center>
+<img width="30%" src='https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif'>
 
-<h1 align="center"> Dora Lourenço 👧🏽 </h1>
-<h4 align="center"> MSc student in Computer Science and Engineering + Data Science research intern</h4>
+<h1> Hi, I'm Dora 👧🏽 </h1> 
+<h3> MSc student in Computer Science + Data Science research intern</h3>
 
-- 👋 Hi, I’m @DAL12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🙋 About me
+- I'm currently working on **Explainability** and **Graph Neural Networks**
+- I'm currently learning **Rust** and **Julia**
+- I'm looking to contribute to open source projects
+- How to reach me: **dora.lourenco@tecnico.ulisboa.pt**
+- Fun facts: avid table tennis player and book lover
